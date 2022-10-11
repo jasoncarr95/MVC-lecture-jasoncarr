@@ -4,7 +4,9 @@ This is the repository for my lecture on MVC (Model-View-Controller), a software
 
 ## Link to the lecture slides [Here](https://slides.com/jsoncarr/mvc)
 
-## Link to templates from the end of the lecture
+![alt txt](mvc-lecture.png)
+
+## Templates to start an MVC project
 
 [Express's MVC Template](https://github.com/expressjs/express/tree/master/examples/mvc)
 
